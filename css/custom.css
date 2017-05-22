@@ -1,0 +1,13 @@
+.rtl {
+    direction: rtl;
+	text-align: right;
+}
+.nudgeleft {
+	padding-right: 5px;
+}
+article .text {
+  position: absolute;
+  bottom: 15px;
+  right: 15px !important;
+  z-index: 10;
+}
